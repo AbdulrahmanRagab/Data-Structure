@@ -65,5 +65,5 @@ The repository covers the following data structures, each with all essential ope
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/AbdulrahmanRagab/Data-Structure
+   git clone https://github.com/AbdulrahmanRagab/Data-Structure.git
    cd data-structures
